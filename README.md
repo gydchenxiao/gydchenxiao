@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋,I'm zhe.
 
-<!--
-**gudong1012/gudong1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Html,css,javascript,vue,Java.
+- 📫 How to reach me: https://t.me/guodongchenxiao
+### Github 活跃度
 
-Here are some ideas to get you started:
+[![](https://activity-graph.herokuapp.com/graph?username=gudong1012&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=gudong1012&show_icons=true&theme=vue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudong1012&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gudong1012&layout=compact&langs_count=6)
+
+
