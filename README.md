@@ -7,7 +7,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=gudong1012&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![](https://github-readme-stats.vercel.app/api?username=gudong1012&show_icons=true&theme=dracula)](https://github.com/1012)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=gudong1012&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gudong1012&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gudong1012&layout=compact&langs_count=6)
