@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm gudong.
 
-- 🔭 I’m currently working on something cool.
+- 🔭 I want to work on something I like.
 - 🌱 I’m currently learning Everything I like.
 
 <!-- -  ### Github 活跃度 -->
