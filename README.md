@@ -1,4 +1,4 @@
-### Hi there 👋,I'm gudong.
+### Hi there 👋,I'm gu dong.
 
 - 🔭 I want to work on something I like.
 - 🌱 I’m currently learning Everything I like.
