@@ -10,7 +10,7 @@
 <details>
 <summary><b>更多</b></summary>
   
-#### 朋友
+#### 朋友合作
 - [瓶子云机场✈️](https://jiasuqi.pingzicloud.top)
   
 </details>
