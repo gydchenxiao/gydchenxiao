@@ -11,6 +11,6 @@
 <summary><b>更多</b></summary>
   
 #### friend
-- [瓶子云机场✈️](https://jiasuqi.pingzicloud.top)
+- [瓶子云机场✈️](https://jiasuqi.pingziyun.top/#/login)
   
 </details>
